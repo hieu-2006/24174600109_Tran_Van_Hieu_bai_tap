@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<employees>
+    <employee>
+        <name>Nguyen Van A</name>
+        <position>Developer</position>
+    </employee>
+</employees>
